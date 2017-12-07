@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="AbstractInstaller_class_Uninstall" value="ru.CryptoPro.Install.SelfInstaller,ru.CryptoPro.JCP.Install.JCPInstaller,ru.CryptoPro.reprov.Install,ru.CryptoPro.JCPxml.XMLInstall,ru.CryptoPro.JCPRequest.RequestInstall,ru.CryptoPro.JCP.Install.JCPAsnInstaller,ru.CryptoPro.Crypto.JCryptoPInstaller"/>
+  <entry key="InstallAccess" value="0"/>
+</map>
